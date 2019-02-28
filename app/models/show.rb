@@ -1,1 +1,1 @@
-class Show < 
+class Show < Show class that inherits from 
