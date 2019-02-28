@@ -1,1 +1,3 @@
-class Show < Show class that inherits from 
+class Show < ActiveRecord::Base 
+  
+end
